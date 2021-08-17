@@ -1,2 +1,2 @@
 # Takeout-Food-Chain-Landing-Page-Design
-A mini project for a UI/UX Workshop hosted by NUST Cyber Security Club
+A mini project for a UI/UX Workshop hosted by NUST Cyber Security Club | Goal was to create a landing page design for any brand. The theme I went for was a fictional brand "Take-A-Ways" which aimed towards providing healthy meals in a contact-free way due to COVID. I went for sage green as the main colour to symbolize health. To view project details on Figma, go to https://www.figma.com/file/PULLtl25Sw5XUDDA7s1XWX/Untitled?node-id=6%3A23.
